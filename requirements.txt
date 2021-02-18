@@ -10,13 +10,12 @@ scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
 pickle
-torch 
-torch.nn
-torch.nn.functional
 re
 nltk
 string
 random
 collections
+sklearn
+
 
 
